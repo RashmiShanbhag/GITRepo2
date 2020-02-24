@@ -1,2 +1,4 @@
 Python is most popular langauge
 Rust is an upcoming langauage
+Python is created by Guido van rosum
+Rust is designed Garydob
